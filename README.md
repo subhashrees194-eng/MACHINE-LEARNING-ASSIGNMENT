@@ -1,2 +1,2 @@
-# MACHINE-LEARNING-ASSIGNMENT
+# Python-For-MACHINE-LEARNING
 Subhashrees194@gmail.com
